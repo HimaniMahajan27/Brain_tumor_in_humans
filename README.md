@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <div align="center">
 
 # 🧠 AttentiveHybridNet
@@ -198,3 +199,6 @@ graph LR
 **Made with ❤️ by Samiksha**
 
 </div>
+=======
+# Brain_tumor_in_humans
+>>>>>>> 08688de0af0f04f19ca8b94dab03a99ebe0039ce
