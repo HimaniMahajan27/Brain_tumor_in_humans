@@ -8,7 +8,7 @@
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg?style=for-the-badge)](LICENSE)
 
-**Accuracy: 96.37% | ECE < 0.03 | AISUMMIT 2025**
+**Accuracy: 96.37% | ECE < 0.03 
 
 </div>
 
@@ -86,38 +86,7 @@ Input MRI (224×224)
 **Classes**: Glioma | Meningioma | Pituitary
 
 
----
-AttentiveHybridNet/
-├── 📂 models/              # Model architectures
-├── 📂 utils/               # Data loading & visualization
-├── 📂 data/                # Dataset
-├── 📝 train.py             # Training script
-├── 📝 test.py              # Evaluation script
-└── 📝 inference.py         # Single image prediction
-```
 
----
-
-## 🔧 Technical Details
-
-**Dataset**: Brain Tumor MRI Dataset (Figshare) - 3 classes  
-**Framework**: PyTorch 2.0+  
-**GPU**: NVIDIA Tesla T4 (16GB)  
-**Optimizer**: Adam (lr: 1e-5 backbone, 1e-4 classifier)  
-**Augmentation**: Rotation, Flips, Color Jitter, Affine  
-
----
-
-## 📜 Citation
-
-```bibtex
-@inproceedings{mahajan2025attentivehybrid,
-  title={AttentiveHybridNet: Brain Tumor Classification using Hybrid Deep Learning},
-  author={Mahajan, Himani},
-  booktitle={AISUMMIT 2025},
-  year={2025}
-}
-```
 
 ---
 
@@ -136,13 +105,6 @@ Computer Engineering | Thapar Institute of Engineering & Technology
 
 ---
 
-## 🙏 Acknowledgments
-
-**Dataset**: C. Jun (Figshare)  
-**Conference**: AISUMMIT 2025  
-**Infrastructure**: Google Colab Pro + NVIDIA T4  
-
----
 
 
 <div align="center">
